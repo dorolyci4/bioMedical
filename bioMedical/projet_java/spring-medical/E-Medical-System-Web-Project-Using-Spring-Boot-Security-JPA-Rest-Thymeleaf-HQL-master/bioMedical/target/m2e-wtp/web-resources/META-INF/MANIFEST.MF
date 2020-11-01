@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: bioMedical
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dorolyci4
+Implementation-Vendor-Id: com.spring
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bioMedical
+Created-By: Maven Integration for Eclipse
+
